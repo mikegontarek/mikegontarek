@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mikegontarek
+👋 Hi, I’m @mikegontarek
 
-- 👀 I am looking to land my first job as a Software Engineer. I am looking to use the Java skills I have built while in school.  Java is the language that I am most comfortable with and know that it works directly in mobile application development.  I started school because I wanted to build an app one day.  I am looking to find a company that will see the potential I have and take the chance on a recent graduate.  I work my tail off and am excited to make mistakes and learn from those mistakes.  
+- 👀 I am looking to land my first job as a Software Engineer.  I am looking to find a company that will see the potential I have and take the chance on a recent graduate.  I work my tail off and am excited to learn more and learn from mistakes along the way.  
 
-- 🌱 I’m currently working on algo expert problems and taking more time to focus on Java.  I am a full-time student that has a full time job and two kids. 
-My course work consists of two classes for 8 weeks at a time and then two more for 8 weeks and a week off.  I do not get much time to experiment and am taking 
-time as I get it wrapping up my degree to learn as much as I can about java. 
+- 🌱I finished my course work to earn my degree.  I am waiting for my official graduation in December.  I had a 3.60 GPA through my major of computer science with an emphasis in software engineering.  While looking for work I am using Udemy courses to sharpen my skills and create some new Java applications.
 
 - 📫 How to reach me ...
-Email-- mikegontarek@gmail.com
+Email -- mikegontarek@gmail.com
+phone -- 320-743-7555
