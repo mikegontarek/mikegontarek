@@ -1,8 +1,6 @@
 👋 Hi, I’m @mikegontarek
 
-- 👀 I am looking to land my first job as a Software Engineer.  I am looking to find a company that will see the potential I have and take the chance on a recent graduate.  I work my tail off and am excited to learn more and learn from mistakes along the way.  
-
-- 🌱I finished my course work to earn my degree.  I am waiting for my official graduation in December.  I had a 3.60 GPA through my major of computer science with an emphasis in software engineering.  While looking for work I am using Udemy courses to sharpen my skills and create some new Java and JavaScript applications.
+- I am a recent graduate from Southern New Hampshire University.  I graduated Cum Laude with my degree in Computer Science with an emphasis in software engineering.  I achieved a GPA of 3.60 while helping my wife raise two little girls and working full-time in retail sales.  I am one of the hardest workers most people have met.  My passion to master things is what makes me a valuable asset.  
 
 - 📫 How to reach me ...
 Email -- mikegontarek@gmail.com
